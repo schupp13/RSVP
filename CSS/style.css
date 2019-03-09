@@ -237,3 +237,8 @@ div > label {
     flex-basis: 20%;
   }
 }
+@media only screen and (max-width: 600px)  {
+  header{
+    background-color: steelblue;
+  }
+}
